@@ -22,4 +22,4 @@ Sophie: apple6
 
 Victoria: apple7
 
-Cindy: apple8
+Cindy: banana8
